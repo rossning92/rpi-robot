@@ -1,0 +1,9 @@
+eventlet
+flask
+flask-socketio
+onnx-tf==1.3.0
+onnx==1.6.0
+onnxruntime==0.5.0
+opencv-python==4.1.1.26
+simple_pid
+tensorflow==1.13.1
